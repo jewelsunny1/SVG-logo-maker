@@ -1,0 +1,8 @@
+
+    <svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+    <rect width ="100%" height = "100%" fill="white"/>
+    <polygon points= "150,50 100,150 200,150 fill=red"/>
+    <text x="50%" y="50%" text-anchor= "middle" fill="yellow">hey</text>
+    </svg>
+
+    
